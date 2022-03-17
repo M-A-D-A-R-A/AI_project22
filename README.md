@@ -1,5 +1,5 @@
 # AI_project22
-Project for Sem 6 Courses AI
+AI Project for Sem 6 Courses AI
 
 # Members
 - Arunoday Kumar (201951031)
